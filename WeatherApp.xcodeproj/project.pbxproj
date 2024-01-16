@@ -13,6 +13,7 @@
 		CE8475212B462CED001C3D61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE8475202B462CED001C3D61 /* Assets.xcassets */; };
 		CE8475242B462CED001C3D61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE8475222B462CED001C3D61 /* LaunchScreen.storyboard */; };
 		CE84752D2B4F7979001C3D61 /* CustomColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE84752C2B4F7979001C3D61 /* CustomColors.swift */; };
+		CE84752F2B50D71C001C3D61 /* HourlyForecastCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE84752E2B50D71C001C3D61 /* HourlyForecastCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE8475232B462CED001C3D61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE8475252B462CED001C3D61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE84752C2B4F7979001C3D61 /* CustomColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomColors.swift; sourceTree = "<group>"; };
+		CE84752E2B50D71C001C3D61 /* HourlyForecastCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourlyForecastCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CE8475202B462CED001C3D61 /* Assets.xcassets */,
 				CE8475222B462CED001C3D61 /* LaunchScreen.storyboard */,
 				CE8475252B462CED001C3D61 /* Info.plist */,
+				CE84752E2B50D71C001C3D61 /* HourlyForecastCollectionViewCell.swift */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				CE84751C2B462CEA001C3D61 /* ViewController.swift in Sources */,
 				CE8475182B462CEA001C3D61 /* AppDelegate.swift in Sources */,
 				CE84752D2B4F7979001C3D61 /* CustomColors.swift in Sources */,
+				CE84752F2B50D71C001C3D61 /* HourlyForecastCollectionViewCell.swift in Sources */,
 				CE84751A2B462CEA001C3D61 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
